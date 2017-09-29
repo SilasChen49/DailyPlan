@@ -14,6 +14,7 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.logging.Logger;
 
 @Controller
+@RequestMapping(value = "/index")
 public class AccountController {
 
     @Autowired
