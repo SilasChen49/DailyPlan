@@ -1,4 +1,4 @@
-package com.hisen.test;
+package com.cm.test;
 
 import com.cm.entity.User;
 import com.cm.service.UserService;

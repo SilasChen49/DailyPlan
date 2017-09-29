@@ -1,4 +1,4 @@
-package com.hisen.test;
+package com.cm.test;
 
 import com.cm.entity.Book;
 import com.cm.service.BookService;

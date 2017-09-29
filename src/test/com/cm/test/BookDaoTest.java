@@ -1,4 +1,4 @@
-package com.hisen.test;
+package com.cm.test;
 
 import com.cm.dao.BookDao;
 import com.cm.entity.Book;

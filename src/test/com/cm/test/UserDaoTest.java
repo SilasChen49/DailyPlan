@@ -1,8 +1,7 @@
-package com.hisen.test;
+package com.cm.test;
 
 import com.cm.dao.UserDao;
 import com.cm.entity.User;
-import com.fasterxml.jackson.databind.ser.Serializers;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
